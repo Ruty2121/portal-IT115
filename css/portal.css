@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: crimson;
+    font-family: 'Crimson Pro', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -14,12 +14,24 @@ html {
     background: #ff0;
 }
 
+
+
+
+
 h1 {
     font-weight: normal;
     margin: auto;
     background: #fff;
     line-height: 2.5em;
 }
+
+h1.logo{ 
+    font-family: 'Tangerine', serif;
+    font-size: 60px;
+}
+
+
+
 
 main.wrapper {
     background-color: white;
